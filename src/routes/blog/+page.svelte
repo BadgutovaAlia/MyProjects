@@ -6,6 +6,7 @@
 </svelte:head>
 <div class="container">
 	<h1>Мои статьи</h1>
+	Статьи будут переодически обновляться и добавляться) <br><br>
 	<div class="blogposts">
 		{#each routes as page}
 			<div class="post">
